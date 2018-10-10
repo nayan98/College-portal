@@ -3,4 +3,4 @@ Key Skills used
 form handling , form validation (trim(), stripslashes() ,htmlspecialchars())  , used session variables , used MySQLi Procedural, 
 login and register form , mail function , used GOOGLE CHARTS with php, php arrays.
 2. Mysql -:
-sql queries and commands (Create,Drop,Insert,Alter etc.),Joins , unions ,constraints .
+sql queries and commands (Create,Drop,Insert,Alter etc.).
